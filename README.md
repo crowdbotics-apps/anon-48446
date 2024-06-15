@@ -71,6 +71,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-push-notifications](backend/modules)
 - [django-two-factor-authentication](backend/modules)
 - [profile]()
+- [privacy-policy]()
 
 # Getting started: Frontend
 
